@@ -1,0 +1,2 @@
+# Hearthland-payment-issue
+We are using hearthland secure submit payment gateway and customers are able to place order from chrome but customers are facing issue while placing order from mozilla firefox and safari browsers. issue they are seeing is "Transaction rejected because the lookup on the supplied token failed". and in console i am seeing this error "Loading failed for the &lt;script> with source “https://api.heartlandportico.com/SecureSubmit.v1/api/token?callback=jsonp_callback_50015&amp;token_type=supt&amp;object=token&amp;_method=post&amp;api_key= "
